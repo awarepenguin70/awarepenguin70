@@ -1,5 +1,5 @@
 # 💫 about me:
-hi there! 👋 i'm rahul 🐧✨<br>welcome to my batcave! i'm a full-stack developer who loves building web and mobile apps that are sleek, scalable, and super fun to use.<br><br>when i'm not coding, you'll probably find me:<br><br>🐧 dreaming about penguins and their adorable waddles.<br>☕ sipping matcha latte while debugging life (and code).<br>🚀 exploring cool tech or crushing problems on leetcode.<br>
+hi there! 👋 i'm rahul 🐧✨<br>welcome to my batcave! i'm a full-stack developer who loves building web and mobile apps that are sleek, scalable, and super fun to use.<br><br>when i'm not coding, you'll probably find me:<br><br>🐧 dreaming about penguins and agatha harkness.<br>☕ sipping matcha latte while debugging life (and code).<br>🚀 exploring cool tech or crushing problems on leetcode.<br>
 
 
 ## 🌐 socials:
