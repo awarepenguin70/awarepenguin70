@@ -1,48 +1,29 @@
-# 💫 About Me:
-Hi there! 👋 I'm Rahul. Welcome to my GitHub profile!  
-I'm a full-stack developer passionate about crafting scalable and user-friendly web and mobile applications.  
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=awarepenguin70&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=awarepenguin70&theme=dark&hide_border=true" />
+</p>
 
-When I'm not coding, I enjoy:  
-🐧 Dreaming about penguins and exploring the Marvel universe.  
-☕ Sipping matcha lattes while tackling challenging problems.  
-🚀 Exploring new technologies and solving LeetCode problems.  
+<br/>
 
----
+<p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f28a00">
+    <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
+    <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00">
+  </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00">
+    <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00">
+    <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
+    <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f28a00">
+    <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f28a00">
+  </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f28a00">
+    <img src="https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go&color=151515&logoColor=000&labelColor=f28a00">
+  </div>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-prasad-a9aa57251/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/awarepenguin70)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pengu_vibes)
+<br/>
 
----
-
-# 💻 Tech Stack:
-
-### **Frontend Development**
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-|---|---|---|
-| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-
-### **Backend Development**
-| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-|---|---|---|
-
-### **Programming Languages**
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-|---|---|---|
-
-### **Cloud & Tools**
-| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |   
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=awarepenguin70&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=awarepenguin70&theme=dark&hide_border=false)<br>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=awarepenguin70&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-
-
+[![Awarepenguin70's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=awarepenguin70&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)]
