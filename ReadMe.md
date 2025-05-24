@@ -4,4 +4,4 @@
 </p>
 
 
-[![Awarepenguin70's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=awarepenguin70&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)]
+![Awarepenguin70's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=awarepenguin70&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)
